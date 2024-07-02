@@ -1,4 +1,4 @@
-# Mining Physical Activity Behaviors in Older Adults
+# Mining Physical Activity Behaviours in Older Adults
 
 This project focuses on mining physical activity behaviours by identifying and exploring physical activities (PA) between different individuals. We aim to test and develop unsupervised methods to recognise different physical activity behaviours among older adults. 
 
